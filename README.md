@@ -1,3 +1,13 @@
+# My starter template
+React, vite, typescript, react-testing-libray and jest!
+
+...
+
+no styled-components 
+
+
+blah blah blah boilerplate below:
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
