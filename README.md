@@ -5,6 +5,7 @@ React, vite, typescript, react-testing-libray and jest!
 
 no styled-components 
 
+oh, and make sure this works in your ide:  tsc --help
 
 blah blah blah boilerplate below:
 
